@@ -1,3 +1,4 @@
 Let's learn GIt and GitHub
 Git is a version control file
 where as GitHub is a repository system
+1 will create file and push it on repository
